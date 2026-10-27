@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Change review">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#151517"/>
+  <g fill="none" stroke="#f9fafb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 20h5.4l2 3H30v11H17z" opacity="0.9"/>
+    <path d="M36 24h11M36 32h11M36 40h6"/>
+  </g>
+  <g stroke-width="2.6" stroke-linecap="round">
+    <path d="M17 46h10" stroke="#22c55e"/>
+    <path d="M17 53h6" stroke="#f25a5a"/>
+  </g>
+  <path d="M43 44.5l2.6 2.7 5.4-6" fill="none" stroke="#22c55e" stroke-width="2.8"
+    stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

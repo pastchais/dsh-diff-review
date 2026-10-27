@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Change Review",
+    "description": "Review a turn's changed files one at a time: read the diff and confirm each file separately."
+  },
+  "review": {
+    "tabTitle": "Change review",
+    "openAction": "Review in sidebar",
+    "filesHeading": "Changed this turn",
+    "loading": "Reading changes…",
+    "empty": "This turn changed no file.",
+    "summaryGone": "This turn's change record is no longer available.",
+    "loadFailed": "Could not read the changes.",
+    "binary": "Binary file; no line comparison.",
+    "oversized": "File too large; no line comparison.",
+    "coarse": "The line comparison timed out; every line is shown as replaced.",
+    "confirmOne": "Confirm",
+    "revertOne": "Revert",
+    "editOne": "Edit",
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "reverted": "Reverted",
+    "edited": "Edited",
+    "hint": "All three actions act on one file. Confirm only records a decision; revert is the only one that writes."
+  }
+}

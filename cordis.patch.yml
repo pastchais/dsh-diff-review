@@ -1,0 +1,8 @@
+# dsh-diff-review bundle patch.
+#
+# One row mounts the Host half (the /api/diff-review/* routes plus the
+# confirmation store). The browser half ships from the same package through
+# `dsh.client`, so the row alone activates both faces.
+- insert:
+    - id: diff-review
+      name: dsh-diff-review

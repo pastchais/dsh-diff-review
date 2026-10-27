@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "变更审阅",
+    "description": "按单个文件审阅本轮改动：看差异，逐个文件确认。"
+  },
+  "review": {
+    "tabTitle": "变更审阅",
+    "openAction": "在右侧审阅",
+    "filesHeading": "本轮改动",
+    "loading": "正在读取改动…",
+    "empty": "本轮没有改动文件。",
+    "summaryGone": "本轮的改动记录已不可用。",
+    "loadFailed": "读取改动失败。",
+    "binary": "二进制文件，无行级对比。",
+    "oversized": "文件过大，无行级对比。",
+    "coarse": "行比对超时，整文件按替换展示。",
+    "confirmOne": "确认",
+    "revertOne": "回退",
+    "editOne": "修改",
+    "pending": "待确认",
+    "confirmed": "已确认",
+    "reverted": "已回退",
+    "edited": "已修改",
+    "hint": "三个动作都以单文件为单位。确认只留记录，只有回退会写文件。"
+  }
+}
