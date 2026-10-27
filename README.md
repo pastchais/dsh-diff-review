@@ -39,7 +39,7 @@ Reverting a turn is streamed: the Host plans every file first (read-only), then 
 The plugin is a normal DSH bundle. It is not on npm yet, so install it from a checkout.
 
 ```bash
-git clone https://github.com/<owner>/dsh-diff-review.git
+git clone https://github.com/pastchais/dsh-diff-review.git
 cd dsh-diff-review
 ```
 

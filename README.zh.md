@@ -39,7 +39,7 @@ DSH 自带的改动查看器只能看。这个插件补的是另一半——**�
 这是一个普通的 DSH bundle。还没发布到 npm，所以从源码目录安装。
 
 ```bash
-git clone https://github.com/<owner>/dsh-diff-review.git
+git clone https://github.com/pastchais/dsh-diff-review.git
 cd dsh-diff-review
 ```
 
